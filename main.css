@@ -3,6 +3,11 @@
     margin: 0;
     padding: 0;
 }
+
+main > section{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 /* header */
 /* landing page */
 #landing-page{
@@ -100,3 +105,6 @@
 }
 
 /* find-more */
+#find-more >.container{
+    background-color: #00b3dc;
+}
