@@ -50,8 +50,48 @@
 
 
 /* get-the-recipe */
+#get-the-recipe >.container >.row > .col > button{
+    background-color: #a8cc50;
+    color: white;
+    border: none;
+    font-weight: bold;
+    padding: 10px;
+}
 /* shop-now */
+#shop-now{
+    background-image: url("./images/shop\ now.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background: cover;
+    height: 70vh;
+    width: 100%;
+}
+
+#shop-now >.container >.row > .col > button{
+    background-color: #3f3f3f;
+    color: white;
+    border: none;
+    font-weight: bold;
+    padding: 10px;
+}
 /* meet-the-maker */
 /* whats-happening */
 /* enter-now */
+#enter-now{
+    background-image: url("./images/stand\ a\ chance\ to\ win.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background: cover;
+    height: 70vh;
+    width: 100%;
+}
+
+#enter-now >.container >.row > .col > button{
+    background-color: #002f4d;
+    color: yellow;
+    border: none;
+    font-weight: bold;
+    padding: 10px;
+}
+
 /* find-more */
